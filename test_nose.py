@@ -10,4 +10,4 @@ def test_strings_a_3():
 
 @attr(ttype='tools')
 def test_nosetools():
-    assert_equals('Rae', 'R'+'a'+'e')
+    assert_equals('Duck', 'D'+'u'+'c'+'k')
